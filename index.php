@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <title>Square Transforming - The Watchful Sunflowers</title>
-  <script src="/common/jquery-latest.min.js"></script>
-  <script src="/common/js/jquery-css-transform.js"></script>
-  <script src="/common/js/jquery.textshadow.js"></script>
+  <script src="jquery-latest.min.js"></script>
+  <script src="jquery-css-transform.js"></script>
+  <script src="jquery.textshadow.js"></script>
   <script>
   /*
  * jQuery throttle / debounce - v1.1 - 3/7/2010
